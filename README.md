@@ -6,14 +6,22 @@ Course: CS101
 Group number: 170
 Project Title: Zombie Apocalypse Simulator
 Member1 Name: Sattwik Deb Mishra
+
 Member1 Roll Number: 140070036
+
 Member2 Name: Sanat Anand
+
 Member2 Roll Number: 140040005
+
 Member3 Name: Shruti Hiray
+
 Member3 Roll Number: 14D070016
+
 Member4 Name: Tejeshwar Thorawade
+
 Member4 Roll Number: 140070015
-YouTube Video Link: optional
+
+YouTube Video Link: https://www.youtube.com/watch?v=ARWIDJlBQ5I
 
 To download SD2 for Mac OSX: https://www.libsdl.org/download-2.0.php
 
